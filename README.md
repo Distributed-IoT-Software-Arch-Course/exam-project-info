@@ -25,7 +25,7 @@ The exam consists of two components:
     - Score range: 0–30.  
     - Pass condition: score ≥ 18.
 
-**🧮 Final Grade Calculation:**
+**Final Grade Calculation:**
 
 Final grade = (written_score * 0.5) + (project_score * 0.5), only if both components are passed (each ≥ 18).  *Honours (30 cum laude) may be awarded for outstanding performance in both components.*
 
