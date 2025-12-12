@@ -48,6 +48,33 @@ Multiple questions of the same type may appear, and not all types are guaranteed
 
 Multiple versions of the exam may be issued in the same session (e.g., based on student ID, alphabetical grouping, or other criteria).
 
+### Written Exam – Topics NOT Included
+
+The following topics are **NOT included** in the written exam:
+
+**-Lecture 1 - Cyber-Physical Systems & Internet of Things**
+    - This Lecture is meant to be an introduction to the course and is not included directly as questions in the written exam. However, the concepts presented in this lecture may be useful to understand the context of the other lectures and should be studied for a better comprehension of the course topics.
+**- Lecture 2 - Python & Object-Oriented Programming (OOP)**
+    - This lecture is not included in the written exam as the focus is on theoretical concepts rather than coding skills.
+**- Lecture 3: Only the following sections are NOT included** 
+  - 3.1.1 TCP & UDP Protocols (Quick Overview)
+  - 3.2 IoT Protocol Stack (Overview)
+  - 3.3 Simple Comparison Between Traditional Internet Protocol Stack and IoT Protocol Stack
+  - 3.4 IoT Application Layer Protocols
+  - 3.6 Protocols Objectives - Towards Standardization and Interoperability
+**- Lecture 4: Only the following sections are NOT included**
+  - 4.3.3 A Simple Comparison Between REST and SOAP
+  - 4.3.4 The Client Perspective REST vs. SOAP
+  - 4.5 Level 3: Hypermedia as the Engine of Application State (HATEOAS)
+**- Lecture 5: Only the following sections are NOT included**
+  - 5.6 (Some) Pub/Sub Protocols Examples
+**- Lecture 6: Only the following sections are NOT included**
+  - 6.4.1 Anti-Patterns - The Big Ball of Mud
+  - 6.4.2 Anti-Patterns - Additional Comments
+**- Lecture 7: Only the following sections are NOT included**
+  - 7.3 Additional Distributed Challenges
+  - 7.3.1 Distributed Transactions
+
 ### 💼 Project Information
 
 Projects are executed by groups of **up to three/four students**, who should:
