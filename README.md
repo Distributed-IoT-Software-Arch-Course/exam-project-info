@@ -48,7 +48,7 @@ Multiple questions of the same type may appear, and not all types are guaranteed
 
 Multiple versions of the exam may be issued in the same session (e.g., based on student ID, alphabetical grouping, or other criteria).
 
-### Written Exam – Topics NOT Included
+### 📑 Written Exam – Topics NOT Included
 
 The following topics are **NOT included** in the written exam:
 
